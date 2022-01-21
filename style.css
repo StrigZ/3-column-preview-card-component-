@@ -121,6 +121,9 @@ section:nth-child(3) .card__item-button {
 }
 
 @media (max-width:900px) {
+    body {
+        height: 125vh;
+    }
     .card {
         min-height: 935px;
         max-width: 230px;
