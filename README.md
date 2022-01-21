@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Link](https://your-live-site-url.com)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/3-column-preview-card-component-with-ccs3-and-html5-EJM1M-zvP)
 - Live Site URL: [Link](https://strigz.github.io/3-column-preview-card-component-/)
 
 ## My process
