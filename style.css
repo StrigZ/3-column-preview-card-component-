@@ -39,9 +39,8 @@ h2 {
 
 p {
     color: var(--TransparentWhite);
-    line-height: 1.6;
+    line-height: 1.4;
     font-weight: 400;
-    font-size: 0.8em;
 }
 
 button {
