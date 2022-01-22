@@ -44,7 +44,8 @@ p {
     font-weight: 400;
 }
 
-button {
+main a {
+    text-decoration: none;
     background-color: var(--VeryLightGray);
     border-radius: 30px;
     border: 2px solid transparent;
@@ -53,6 +54,7 @@ button {
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
     font-family: 'Lexend Deca', sans-serif;
     transition: .3s ease;
+    margin-top: auto;
 }
 
 main {
@@ -83,7 +85,7 @@ section:nth-child(1) {
     background-color: var(--BrightOrange);
 }
 
-section:nth-child(1) .card__item-button {
+section:nth-child(1) .card__item-link {
     color: var(--BrightOrange);
 }
 
@@ -91,7 +93,7 @@ section:nth-child(2) {
     background-color: var(--DarkCyan);
 }
 
-section:nth-child(2) .card__item-button {
+section:nth-child(2) .card__item-link {
     color: var(--DarkCyan);
 }
 
@@ -99,11 +101,11 @@ section:nth-child(3) {
     background-color: var(--VeryDarkCyan);
 }
 
-section:nth-child(3) .card__item-button {
+section:nth-child(3) .card__item-link {
     color: var(--VeryDarkCyan);
 }
 
-.card__item-button:hover {
+.card__item-link:hover {
     cursor: pointer;
     border: 2px solid var(--TransparentWhite);
     color: var(--TransparentWhite) !important;
@@ -118,7 +120,7 @@ section:nth-child(3) .card__item-button {
     margin-bottom: 25px;
 }
 
-.card__item-button {
+.card__item-link {
     margin-top: auto;
 }
 
